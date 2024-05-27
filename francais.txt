@@ -12,7 +12,7 @@ Neige
 Paisible
 Embrayage Auto
 Boîte Auto
-Distance Parcourut
+Distance Parcourue
 Copier
 Km
 Page
@@ -66,145 +66,145 @@ Accélération (Throttle)
 Freinage (Brake)
 Embrayage (Clutch)
 Frein à Main (Handbrake)
-Change Shift Gears Here
-Middle
-Affects FPS
-V Sync
-Post Processing
-Depth Of Field
-Heat Haze
-Reflections
+Changer de Vitesse
+Centre
+Influe les FPS
+V-Sync
+Effets Visuels
+Profondeur De Champ
+Déformation due à la Chaleur
+Réflections
 Distant Terrain
-Fog
-Shadows
-Mirrors
-Grass
-Smoke
-Antialiasing
-Anisotropic Filtering
-Per Texture
-Forced On
-Sepia
+Brouillard
+Ombres
+Mirroirs
+Herbe
+Fumer
+Anti-Crénelage
+Filtrage Anisotrope
+Par Texture
+Forcer
+Sépia
 Grayscale
-C64 Color Palette
-Disable Player Model
-Enable in first person
-Walk Headbob
-Drive Headbob
-Disable Autosave
-Disable In Car
-Auto Continue
-Controls Help
-Crosshair
-Old Crosshair
-Old Heat Haze
-Show FPS
+Palette de couleurs C64
+Désactiver le Modèle du Joueur
+Activer seulement en première personne
+Balancement de la Caméra
+Balancement de la Caméra dans la Voiture
+Désactiver l'Auto-Save
+Désactiver dans la Voiture
+Continuer Automatiquement
+Aides aux Contrôles
+Réticule (Crosshair)
+Ancien Réticule (Crosshair)
+Ancienne Déformation due à la Chaleur
+Afficher les FPS
 DropCam Display
-Hair
-Eyebrows
-Mustache
-Eyes
-Shirt
-Pants
-Shoes
-Skin
-Save/Load
-Main Menu
-Cancel
-Waiting For Answer
-Exit?
-Only From Main Menu
-Loading
-Pickup
-Detach
-Use
-Push
-Push & Steer
-Attach
-Mount
-Turn On
-Turn Off
-Open/Close
-Water
-Gas
-Oil
-Blood
+Cheveux
+Sourcils
+Moustache
+Yeux
+T-Shirt
+Pantalons
+Chaussures
+Peau
+Sauvegarders
+Menu Principal
+Annuler
+Attente d'une réponse
+Voulez-vous quitter ?
+Seulement depuis le menu principal
+Chargement
+Prendre
+Détacher
+Utiliser
+Pousser
+Pousser & Diriger
+Attacher
+Monter
+Allumer
+Éteindre
+Ouvrir/Fermer
+Eau
+Essence
+Huile
+Sang
 Diesel
-Alcohol
-Turn On/Off
-Open
-Close
-Smooth Open/Close
-Dismount
-Sit
-Connect
-Disconnect
-Drink
-Fill
-Get Out/Stand
-Focus
-Fire
+Alcool
+Allumer/Éteindre
+Ouvrir
+Fermer
+Ouvrir/Fermer en douceur
+Démonter
+S'asseoir
+Connecter
+Déconnecter
+Boire
+Remplir
+Descendre
+Zoom
+Tirer
 LMB
-Mouse
+Souris
 F
 E
-Drive
+Conduire
 R
-Scroll Up/Down
-Reload
-Stick in
-(full)
-empty
+Faire défiler vers le Haut/Bas
+Recharger
+Coller dans
+(plein)
+vide
 %
 L
-Turn
+Tourner
 Tab
-Equip
+Équiper
 V
-Sleep
-Falling Asleep
-Can't Sleep Yet
-Break Barrel
-Oil Tank
-Coolant
-Fuel Tank
-Adjust
-Tune
+Dormir
+Vous vous endormez
+Impossible de dormir maintenant
+Ouvrir le Baril
+Réservoir d'Huile
+Liquide de Refroidissement
+Réservoir d'Essence
+Ajuster
+Régler
 Volume +/-
 Stop
-Lights
-Ignition
-Stand
+Phares
+Allumage
+Debout
 RMB
 MMB
-Scroll
-Rotate
-Move
-VR Recenter
+Faire défiler
+Tourner
+Bouger
+Recentrer (VR)
 G
-Autosaving
-Drinking
-Wash
-Scrub
-Dust
-Squeeze
-Paint
-Crank
-Attack
+Sauvegarde Auto
+Vous buvez
+Laver
+Frotter
+Dépoussiérer
+Presser
+Peindre
+Faire tourner
+Attaque
 I
-Space
-Reverse
+Espace
+Marche arrière
 Ctrl
-Neutral
+Neutre
 N
-Shift Gear
-Lean
-Lean Up/Down
+Changer de Vitesse
+Se pencher
+Se pencher/Se baisser
 Q
 L
-Up Shift
-Down Shift
-Accelerate
+Passer une vitesse
+Rétrograder
+Accélérer
 ↑
 ↓
 W
@@ -212,243 +212,243 @@ A
 S
 D
 1-4
-Forward
-Backward
-Left
-Right
-Jump
-Run
-Crouch
-Smooth Crouch
-Inventory
-Burp
-Fart
-Piss
-Look
-Zoom
-Hide HUD
-Small Drop Camera
-360° Screenshot
-360° Camera
+Avancer
+Reculer
+Gauche
+Droite
+Sauter
+Courir
+S'accroupir
+S'accroupir Doucement
+Inventaire
+Péter
+Chier
+Pisser
+Regarder
+Zoomer
+Cacher l'HUD
+Petite caméra de chute
+Capture d'Écran à 360° 
+Caméra à 360°
 Shift
 B
 P
-Hold Q
+Maintenir Q
 Z
 Y
-Backspace
+Retour arrière
 F4
 F5
 F6
 F7
-Horn
+Klaxon
 Reset Lean
-Camera
-Drop Camera
-Keyboard Look
+Caméra
+Lacher la Caméra
+Regard clavier
 H
 C
-Hold C
+Maintenir C
 X
-On Foot
-In Car
-Lobbies
-Lobby
-Chat
-[Esc]
-Refresh
-Disconnect
-Join
-Password
-Wrong Password or Timed Out
+a Pied
+en Voiture
+Serveurs
+Serveurs
+Chat   
+X
+Rafraîchir
+Se Déconnecter
+Se Connecter
+Mot de passe
+Mot de passe incorrecte ou délai d'attente dépassé
 OK
-[⏎]: Send
-Lobby Name
-LobbyType
-Max Players
-Players Spawn
-At Start
-Near Host
-Create
-Public
-FriendsOnly
-InviteOnly
-Size
+[⏎]: Envoyer
+Nom du Serveur
+Type du Serveur
+Nombres Maximum de Joueurs
+Point d'apparition des Joueurs
+Au Début
+Près de l'Host
+Créer
+Publique
+Amis seulement
+Invitation seulement
+Taille
 Notification
-Auto Show
-Auto Hide
-Show Names
-Voice Chat
-Push To Talk
-Toggle
-Continous
-Successfully joined lobby
-Couldn't join lobby
-Created lobby
-Couldn't create lobby
-Someone Joined
-Someone Left
+Montrer automatiquement
+Cacher automatiquement
+Montrer les noms
+Chat vocal
+Appuyer pour parler
+Basculer
+Continu
+Serveur rejoint avec succès
+Vous n'avez pas pu rejoindre le serveur
+Serveur créé
+Vous n'avez pas pu créer le serveur
+Quelqu'un a rejoint
+Quelqu'un a quitter
 ping
 ms
-Left Lobby
-Error
-Set to lobby owner
-Spawn
-Type message here
-Reset Trip
-Set Direction
-Adjust Time
-Desert
-Rub/Wave
+Quitter le serveur
+Erreur
+Définir le chef du serveur
+Point d'apparition
+Écrire votre message ici
+Réinitialiser le voyage
+Définir la direction
+Régler l'heure
+Désert
+Frotter/Vague
 Alt
-Can't Save
-While Sleeping
-While Sitting Here
-Or Sleeping
-Or Sitting Here
-Don't Sleep
-Don't Sit
-And Sit
-And Sleep
-Keep Trying!
-Saved!
-Coil Up
-Drain
-Unload
-Open Cylinder
-Put On
-Caps Lock
-Take Off Accessories
-Sunglasses effects
-Mixed
+Impossible de sauvegarder
+pendant que vous dormez
+pendant que vous êtes assis ici
+ou pendant que vous dormez
+our pendant que vous êtes assis ici
+Ne dormez pas
+Ne vous assayez pas
+et pendant que vous êtes assis ici
+et pendant que vous dormez
+Continue d'essayer !
+Sauvegardé !
+Enrouler
+Vidanger
+Décharger
+Ouvrir le Cylindre
+Enfiler
+Majuscule verouillée
+Enlever un accesoire
+Effet des Lunettes de Soleil
+Mélangé
 Biome
-Eat
-Smoke
-Hum
-Take One
-Hunger, Thirst
-Always Show HP
-Always Show Food
-Always Show Water
-Always Show Piss
-Always Show Shit
-Graphics
-Controls
-Misc
+Manger
+Fumer
+Fredonner
+En prendre une
+Faim, Soif
+Afficher la Santé
+Afficher la Faim
+Afficher la Soif
+Afficher la Pisse
+Afficher la Merde
+Graphiques
+Contrôles
+Divers
 Hz
-Resolution
-Screen
-Exclusive Fullscreen
-Fullscreen Window
-Maximized Window
-Windowed
+Résolution
+Écran
+Plein Écran
+Fenétré Plein Écran sans Bordures
+Fenêtré Plein Écran
+Fenêtré
 x
 Mode
 m
 °
-Enabled
-Disabled
-None
+Activé
+Désactivé
+Aucune
 LUT
-volume
-fm
-am
-change am/fm
-Keyboard Steer Sensitivity
-Mouse Steer Sensitivity
-Mouse Throttle/Brake Sensitivity
-Move Forward
-Move Back
-Move Left
-Move Right
-Look Up
-Look Down
-Look Left
-Look Right
-Fire, Primary Action
-Secondary Action
-Rotate
-Run
-Jump
-Crouch
-Use, Interact
-Pickup
-Reload
-Mount/Dismount
-Push
-Equip, Recenter
-Lean
-Piss
-Burp/Fart
-Target
-Map view
-Attach
-Sleep
-Wave/Rub
-Hum
-Smoke
-Remove Accessories
-Inventory Slot 1
-Inventory Slot 2
-Inventory Slot 3
-Inventory Slot 4
-Scroll Up
-Scroll Down
-Change Camera
+Volume
+FM
+AM
+Changer AM/FM
+Sensibilité de la Direction au Clavier
+Sensibilité de la Direction à la Souris
+Sensibilité de l'Accélération/Freinage à la Souris
+Avancer
+Reculer
+Aller à Gauche
+Aller à Droite
+Regarder en Haut
+Regarder en Bas
+Regarder à Gauche
+Regarder à Droite 
+Tirer, Actions Principales
+Actions Secondaires
+Tourner
+Courir
+Sauter
+S'accroupir
+Utiliser, Interagir
+Prendre
+Recharger
+Monter/Démonter
+Pousser
+Équiper, Recentrer
+Se pencher
+Pisser
+Péter/Chier
+Cible
+Camera Style Map
+Attacher
+Dormir
+Vague/Frotter
+Fredonner
+Fumer
+Retirer l'Accessoire
+Emplacement d'Inventaire 1
+Emplacement d'Inventaire 2
+Emplacement d'Inventaire 3
+Emplacement d'Inventaire 4
+Faire défiler vers le Haut
+Faire défiler vers le Bas
+Changer de Camera
 Zoom
-Hide HUD
-Place Drop Camera
-Make 3D Screenshot
-Make 360° Screenshot
-360° Camera
-VR Recenter
-Multiplayer Chat
-Voice Chat
-Look around with Move Keys
-Toggle Mouse Driving
-Throttle
-Brake
-Steer Left
-Steer Right
-Clutch
-Toggle Handbrake
-Shift Up
-Shift Down
-Shift To Reverse
-Shift To Neutral
-Shift To 1
-Shift To 2
-Shift To 3
-Shift To 4
-Shift To 5
-Shift To 6
-Ignition
-Horn
-Lights
-Reset Controls
-Force Manual
-Character
-Eyelashes
-Physics Lock
-Glove box, basket
-+Trunk, rack
-+Whole interior
+Cacher l'HUD
+placez la caméra drop
+Capture d'Écran en 3D
+Capture d'Écran à 360° 
+Caméra à 360°
+Recentrer Camera VR
+Chat Multiplayer
+Chat Vocal
+Regarder avec les Touches de Déplacement
+Conduite avec la Souris
+Accélérer
+Freiner (Reculer)
+Tourner à Gauche
+Tourner à Droite
+Embrayage
+Frein à Main
+Vitesse Suivante
+Vitesse Précédente
+Passer en Marche Arrière
+Passer au Neutre
+Passer à la 1
+Passer à la 2
+Passer à la 3
+Passer à la 4
+Passer à la 5
+Passer à la 6
+Allumage
+Klaxon
+Phares
+Réinitialiser
+Forcer la Manuel
+Sexe
+Cils
+Bloquage de la Physique
+Boite à Gants, Panier
++Coffre, Étagère
++Tout l'Intérieur
 Multiplayer
-Switch
-Cloud Shadows
-Rendering Path
-Forward
-Deferred
-Stereoscopic 3D
+On/Off
+Ombres au Nuage
+Chemin de Rendu
+En avant
+Différé
+3D Stéréoscopique
 Anaglyph
 SBS (L/R)
 SBS (R/L)
-Depth
-Sky Objects
-Reduced Debris
+Profondeur
+Objets du Ciel
+Réduction des Débris
 Collision
 On
 Off
-Snap point
-Origin
-Closest Point
+Point d'Accrochage
+Origine
+Point le plus Proche

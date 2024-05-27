@@ -1,8 +1,6 @@
 # TLDFrench
-Une traduction française de haute qualité
+Une traduction française de haute qualité.
 
-- La plupart des textes sont au vouvoiement
-- Les mots commes FPS, multiplayer et VR sont garder
-- Une traduction française fais par un français
-- La plupart des textes ont été revérifier in-game après avoir été traduit
-- De l'anglais peut être visible, tout n'a pas besoin d'être traduit
+- Mélange des deux langues, un peu d'anglais
+- Traduction faite par un français
+- Chaques mots ont étés vérifiés in-game
